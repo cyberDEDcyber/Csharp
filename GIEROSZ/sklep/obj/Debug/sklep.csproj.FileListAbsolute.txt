@@ -1,0 +1,492 @@
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\sklep.dll.config
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\sklep.dll
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\sklep.pdb
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\csc.exe
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\csc.exe.config
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\csc.rsp
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\csi.exe
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\csi.exe.config
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\csi.rsp
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\System.AppContext.dll
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\System.Console.dll
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\System.IO.Compression.dll
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\System.Security.Claims.dll
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\System.ValueTuple.dll
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\vbc.exe
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\vbc.exe.config
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\vbc.rsp
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\obj\Debug\sklep.csprojAssemblyReference.cache
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\obj\Debug\sklep.csproj.CoreCompileInputs.cache
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\obj\Debug\sklep.csproj.CopyComplete
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\obj\Debug\sklep.dll
+C:\Users\Fiałkowski Patryk\source\repos\sklep\sklep\obj\Debug\sklep.pdb
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\sklep.dll.config
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\sklep.dll
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\sklep.pdb
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\csc.exe
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\csc.exe.config
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\csc.rsp
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\csi.exe
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\csi.exe.config
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\csi.rsp
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.AppContext.dll
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.Collections.Immutable.dll
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.Console.dll
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.IO.Compression.dll
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.IO.FileSystem.dll
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.IO.Pipes.dll
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.Reflection.Metadata.dll
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.Security.AccessControl.dll
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.Security.Claims.dll
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.ValueTuple.dll
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.Xml.XPath.dll
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\vbc.exe
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\vbc.exe.config
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\vbc.rsp
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\VBCSCompiler.exe
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\VBCSCompiler.exe.config
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Aplikacje\koAplikacje\sklep\sklep\obj\Debug\sklep.csprojAssemblyReference.cache
+G:\Aplikacje\koAplikacje\sklep\sklep\obj\Debug\sklep.csproj.CopyComplete
+G:\Aplikacje\koAplikacje\sklep\sklep\obj\Debug\sklep.dll
+G:\Aplikacje\koAplikacje\sklep\sklep\obj\Debug\sklep.pdb
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\MySql.Data.dll
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\MySql.Web.dll
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\Google.Protobuf.dll
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\BouncyCastle.Crypto.dll
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\Renci.SshNet.dll
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\MySql.Data.xml
+G:\Aplikacje\koAplikacje\sklep\sklep\bin\MySql.Web.xml
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\sklep.dll.config
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\sklep.dll
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\sklep.pdb
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\csc.exe
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\csc.exe.config
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\csc.rsp
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\csi.exe
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\csi.exe.config
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\csi.rsp
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.AppContext.dll
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.Collections.Immutable.dll
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.Console.dll
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.IO.Compression.dll
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.IO.FileSystem.dll
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.IO.Pipes.dll
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.Reflection.Metadata.dll
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.Security.AccessControl.dll
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.Security.Claims.dll
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.ValueTuple.dll
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.Xml.XPath.dll
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\vbc.exe
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\vbc.exe.config
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\vbc.rsp
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\VBCSCompiler.exe
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\roslyn\VBCSCompiler.exe.config
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\MySql.Data.dll
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\MySql.Web.dll
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\Google.Protobuf.dll
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\BouncyCastle.Crypto.dll
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\Renci.SshNet.dll
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\MySql.Data.xml
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\MySql.Web.xml
+F:\Aplikacje\koAplikacje\sklep\sklep\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Aplikacje\koAplikacje\sklep\sklep\obj\Debug\sklep.csprojAssemblyReference.cache
+F:\Aplikacje\koAplikacje\sklep\sklep\obj\Debug\sklep.csproj.CoreCompileInputs.cache
+F:\Aplikacje\koAplikacje\sklep\sklep\obj\Debug\sklep.csproj.CopyComplete
+F:\Aplikacje\koAplikacje\sklep\sklep\obj\Debug\sklep.dll
+F:\Aplikacje\koAplikacje\sklep\sklep\obj\Debug\sklep.pdb
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\sklep.dll.config
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\sklep.dll
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\sklep.pdb
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\csc.exe
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\csc.exe.config
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\csc.rsp
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\csi.exe
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\csi.exe.config
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\csi.rsp
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\System.AppContext.dll
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\System.Console.dll
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\System.IO.Compression.dll
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\System.Security.Claims.dll
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\System.ValueTuple.dll
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\vbc.exe
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\vbc.exe.config
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\vbc.rsp
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\VBCSCompiler.exe
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\Google.Protobuf.dll
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\BouncyCastle.Crypto.dll
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\Renci.SshNet.dll
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\MySql.Data.xml
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\MySql.Web.xml
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ATARASHI\Desktop\sklep\sklep\obj\Debug\sklep.csprojAssemblyReference.cache
+C:\Users\ATARASHI\Desktop\sklep\sklep\obj\Debug\sklep.csproj.CopyComplete
+C:\Users\ATARASHI\Desktop\sklep\sklep\obj\Debug\sklep.dll
+C:\Users\ATARASHI\Desktop\sklep\sklep\obj\Debug\sklep.pdb
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\MySql.Data.dll
+C:\Users\ATARASHI\Desktop\sklep\sklep\bin\MySql.Web.dll
+F:\sklep\sklep\bin\sklep.dll.config
+F:\sklep\sklep\bin\sklep.dll
+F:\sklep\sklep\bin\sklep.pdb
+F:\sklep\sklep\bin\roslyn\csc.exe
+F:\sklep\sklep\bin\roslyn\csc.exe.config
+F:\sklep\sklep\bin\roslyn\csc.rsp
+F:\sklep\sklep\bin\roslyn\csi.exe
+F:\sklep\sklep\bin\roslyn\csi.exe.config
+F:\sklep\sklep\bin\roslyn\csi.rsp
+F:\sklep\sklep\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\sklep\sklep\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\sklep\sklep\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\sklep\sklep\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\sklep\sklep\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\sklep\sklep\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\sklep\sklep\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\sklep\sklep\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\sklep\sklep\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\sklep\sklep\bin\roslyn\Microsoft.Managed.Core.targets
+F:\sklep\sklep\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\sklep\sklep\bin\roslyn\System.AppContext.dll
+F:\sklep\sklep\bin\roslyn\System.Collections.Immutable.dll
+F:\sklep\sklep\bin\roslyn\System.Console.dll
+F:\sklep\sklep\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\sklep\sklep\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\sklep\sklep\bin\roslyn\System.IO.Compression.dll
+F:\sklep\sklep\bin\roslyn\System.IO.FileSystem.dll
+F:\sklep\sklep\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\sklep\sklep\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\sklep\sklep\bin\roslyn\System.IO.Pipes.dll
+F:\sklep\sklep\bin\roslyn\System.Reflection.Metadata.dll
+F:\sklep\sklep\bin\roslyn\System.Security.AccessControl.dll
+F:\sklep\sklep\bin\roslyn\System.Security.Claims.dll
+F:\sklep\sklep\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\sklep\sklep\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\sklep\sklep\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\sklep\sklep\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\sklep\sklep\bin\roslyn\System.Security.Principal.Windows.dll
+F:\sklep\sklep\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\sklep\sklep\bin\roslyn\System.ValueTuple.dll
+F:\sklep\sklep\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\sklep\sklep\bin\roslyn\System.Xml.XmlDocument.dll
+F:\sklep\sklep\bin\roslyn\System.Xml.XPath.dll
+F:\sklep\sklep\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\sklep\sklep\bin\roslyn\vbc.exe
+F:\sklep\sklep\bin\roslyn\vbc.exe.config
+F:\sklep\sklep\bin\roslyn\vbc.rsp
+F:\sklep\sklep\bin\roslyn\VBCSCompiler.exe
+F:\sklep\sklep\bin\roslyn\VBCSCompiler.exe.config
+F:\sklep\sklep\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\sklep\sklep\bin\MySql.Data.dll
+F:\sklep\sklep\bin\MySql.Web.dll
+F:\sklep\sklep\bin\Google.Protobuf.dll
+F:\sklep\sklep\bin\BouncyCastle.Crypto.dll
+F:\sklep\sklep\bin\Renci.SshNet.dll
+F:\sklep\sklep\bin\MySql.Data.xml
+F:\sklep\sklep\bin\MySql.Web.xml
+F:\sklep\sklep\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\sklep\sklep\obj\Debug\sklep.csprojAssemblyReference.cache
+F:\sklep\sklep\obj\Debug\sklep.csproj.CoreCompileInputs.cache
+F:\sklep\sklep\obj\Debug\sklep.csproj.CopyComplete
+F:\sklep\sklep\obj\Debug\sklep.dll
+F:\sklep\sklep\obj\Debug\sklep.pdb
+G:\sklep\sklep\bin\sklep.dll.config
+G:\sklep\sklep\bin\sklep.dll
+G:\sklep\sklep\bin\sklep.pdb
+G:\sklep\sklep\bin\roslyn\csc.exe
+G:\sklep\sklep\bin\roslyn\csc.exe.config
+G:\sklep\sklep\bin\roslyn\csc.rsp
+G:\sklep\sklep\bin\roslyn\csi.exe
+G:\sklep\sklep\bin\roslyn\csi.exe.config
+G:\sklep\sklep\bin\roslyn\csi.rsp
+G:\sklep\sklep\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\sklep\sklep\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\sklep\sklep\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\sklep\sklep\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\sklep\sklep\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\sklep\sklep\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\sklep\sklep\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\sklep\sklep\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\sklep\sklep\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\sklep\sklep\bin\roslyn\Microsoft.Managed.Core.targets
+G:\sklep\sklep\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\sklep\sklep\bin\roslyn\System.AppContext.dll
+G:\sklep\sklep\bin\roslyn\System.Collections.Immutable.dll
+G:\sklep\sklep\bin\roslyn\System.Console.dll
+G:\sklep\sklep\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\sklep\sklep\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\sklep\sklep\bin\roslyn\System.IO.Compression.dll
+G:\sklep\sklep\bin\roslyn\System.IO.FileSystem.dll
+G:\sklep\sklep\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\sklep\sklep\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\sklep\sklep\bin\roslyn\System.IO.Pipes.dll
+G:\sklep\sklep\bin\roslyn\System.Reflection.Metadata.dll
+G:\sklep\sklep\bin\roslyn\System.Security.AccessControl.dll
+G:\sklep\sklep\bin\roslyn\System.Security.Claims.dll
+G:\sklep\sklep\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\sklep\sklep\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\sklep\sklep\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\sklep\sklep\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\sklep\sklep\bin\roslyn\System.Security.Principal.Windows.dll
+G:\sklep\sklep\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\sklep\sklep\bin\roslyn\System.ValueTuple.dll
+G:\sklep\sklep\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\sklep\sklep\bin\roslyn\System.Xml.XmlDocument.dll
+G:\sklep\sklep\bin\roslyn\System.Xml.XPath.dll
+G:\sklep\sklep\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\sklep\sklep\bin\roslyn\vbc.exe
+G:\sklep\sklep\bin\roslyn\vbc.exe.config
+G:\sklep\sklep\bin\roslyn\vbc.rsp
+G:\sklep\sklep\bin\roslyn\VBCSCompiler.exe
+G:\sklep\sklep\bin\roslyn\VBCSCompiler.exe.config
+G:\sklep\sklep\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\sklep\sklep\bin\MySql.Data.dll
+G:\sklep\sklep\bin\MySql.Web.dll
+G:\sklep\sklep\bin\Google.Protobuf.dll
+G:\sklep\sklep\bin\BouncyCastle.Crypto.dll
+G:\sklep\sklep\bin\Renci.SshNet.dll
+G:\sklep\sklep\bin\MySql.Data.xml
+G:\sklep\sklep\bin\MySql.Web.xml
+G:\sklep\sklep\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\sklep\sklep\obj\Debug\sklep.csprojAssemblyReference.cache
+G:\sklep\sklep\obj\Debug\sklep.csproj.CopyComplete
+G:\sklep\sklep\obj\Debug\sklep.dll
+G:\sklep\sklep\obj\Debug\sklep.pdb
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\sklep.dll.config
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\sklep.dll
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\sklep.pdb
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\csc.exe
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\csc.exe.config
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\csc.rsp
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\csi.exe
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\csi.exe.config
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\csi.rsp
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\System.AppContext.dll
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\System.Console.dll
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\System.IO.Compression.dll
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\System.Security.Claims.dll
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\System.ValueTuple.dll
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\vbc.exe
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\vbc.exe.config
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\vbc.rsp
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\MySql.Data.dll
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\MySql.Web.dll
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\Google.Protobuf.dll
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\BouncyCastle.Crypto.dll
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\Renci.SshNet.dll
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\MySql.Data.xml
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\MySql.Web.xml
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\obj\Debug\sklep.csprojAssemblyReference.cache
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\obj\Debug\sklep.csproj.CoreCompileInputs.cache
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\obj\Debug\sklep.csproj.CopyComplete
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\obj\Debug\sklep.dll
+C:\Users\Gębski Bartosz\Desktop\sklep\sklep\obj\Debug\sklep.pdb
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\sklep.dll.config
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\sklep.dll
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\sklep.pdb
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\csc.exe
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\csc.exe.config
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\csc.rsp
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\csi.exe
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\csi.exe.config
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\csi.rsp
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\Microsoft.Managed.Core.targets
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\System.AppContext.dll
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\System.Collections.Immutable.dll
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\System.Console.dll
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\System.IO.Compression.dll
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\System.IO.FileSystem.dll
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\System.IO.Pipes.dll
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\System.Reflection.Metadata.dll
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\System.Security.AccessControl.dll
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\System.Security.Claims.dll
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\System.Security.Principal.Windows.dll
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\System.ValueTuple.dll
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\System.Xml.XmlDocument.dll
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\System.Xml.XPath.dll
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\vbc.exe
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\vbc.exe.config
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\vbc.rsp
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\VBCSCompiler.exe
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\roslyn\VBCSCompiler.exe.config
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\Google.Protobuf.dll
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\BouncyCastle.Crypto.dll
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\Renci.SshNet.dll
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\MySql.Data.xml
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\MySql.Web.xml
+H:\Gebski_Fialkowski_GIEROSZ\sklep\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Gebski_Fialkowski_GIEROSZ\sklep\obj\Debug\sklep.csprojAssemblyReference.cache
+H:\Gebski_Fialkowski_GIEROSZ\sklep\obj\Debug\sklep.csproj.CoreCompileInputs.cache
+H:\Gebski_Fialkowski_GIEROSZ\sklep\obj\Debug\sklep.csproj.CopyComplete
+H:\Gebski_Fialkowski_GIEROSZ\sklep\obj\Debug\sklep.dll
+H:\Gebski_Fialkowski_GIEROSZ\sklep\obj\Debug\sklep.pdb

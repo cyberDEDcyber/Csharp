@@ -1,0 +1,8 @@
+login admina:
+adminek
+zaq1@WSX
+
+SMTP:
+SmtpClient("smtp.gmail.com", 25);
+mail:GieroszByFialAndGamb@gmail.com
+haslo:zaq1@WSX

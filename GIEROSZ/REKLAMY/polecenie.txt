@@ -1,0 +1,2 @@
+Dodajesz to pod kazde menu i po sprawie
+<asp:AdRotator ID="AdRotator1" class="baner" runat="server" Width="800" Height="200" AdvertisementFile="~/Advert.xml"/>
